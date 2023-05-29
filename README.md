@@ -7,4 +7,4 @@ https://bigbookofamigahardware.com/bboah/product.aspx?id=722
 
 
 #
-![3D Version](image/Tekno Board reversed.jpg)
+![3D Version](https://github.com/Retro-Commodore/Tekno/blob/main/Image/Tekno%20Board%20reversed.jpg)
