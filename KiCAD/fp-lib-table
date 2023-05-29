@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TeknoAmiga")(type "KiCad")(uri "$(KIPRJMOD)/TeknoAmiga.pretty")(options "")(descr ""))
+)
